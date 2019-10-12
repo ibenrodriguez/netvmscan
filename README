@@ -1,0 +1,10 @@
+Code used to perform
+- automated deployment of cloud compute 
+- using terraform for infrastructure 
+- using ansible for configuration
+- using test kitchen to validate function
+- using rapid 7 metasploit and tenable Nessus for scanning
+- using packer to build custom image
+- image should be harded to cis benchmark
+- gcp deployment should be hardened to cis benchmark
+- goal to expand features to optionally work on AWS and azure and alibaba cloud too as our customers might need this
