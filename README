@@ -1,6 +1,7 @@
 Code used to perform
 - automated deployment of cloud compute 
 - using terraform for infrastructure 
+- protect incoming https web conenctions with cloudflare - https://www.cloudflare.com/en-gb/integrations/google-cloud/
 - using ansible for configuration
 - using test kitchen to validate function
 - using rapid 7 metasploit and tenable Nessus for scanning
